@@ -9,6 +9,7 @@ import org.apache.spark.streaming.{Seconds, StreamingContext}
 
 /**
   * xzb
+  * 高阶KafkaAPI
   */
 object HighKafkaSparkStreamingAPI {
 

@@ -10,6 +10,7 @@ import org.apache.spark.streaming.{Seconds, StreamingContext}
 
 /**
   * xzb
+  * Kafka高阶API checkpoint方式维护offset
   */
 object HighCheckpoint {
 

@@ -14,6 +14,7 @@ import scala.collection.immutable.HashMap
 
 /**
   * xzb
+  * 低阶KafkaAPI 手动维护offset
   */
 object LowKafkaSparkStreamingAPI {
 
